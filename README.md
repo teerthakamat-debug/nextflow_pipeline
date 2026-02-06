@@ -1,3 +1,4 @@
+
 # Nextflow Variant Calling Pipeline
 
 ## Introduction
@@ -194,6 +195,3 @@ The `.gitignore` file ensures that large intermediate and temporary files are no
 ## Conclusion
 
 This Nextflow pipeline provides a robust, reproducible, and scalable framework for variant calling analysis from raw sequencing data. By combining modular workflow design, Conda-based environments, and version control through GitHub, the pipeline ensures transparency, portability, and ease of reuse for future genomic studies.
-
----
-
